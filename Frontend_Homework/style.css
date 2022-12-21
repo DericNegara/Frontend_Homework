@@ -1,0 +1,61 @@
+#img_hobby{
+    width: 200px;
+    height: 200px;
+}
+
+#img_programming{
+    width: 200px;
+    height: 200px;
+}
+
+#img_tool{
+    width: 200px;
+    height: 200px;
+}
+#img_twitter{
+    width: 30px;
+    height: 30px;
+}
+
+#img_facebook{
+    width: 30px;
+    height: 30px;
+}
+
+#img_instagram{
+    width: 30px;
+    height: 30px;
+}
+
+#block1{
+    border: 1px solid black;
+    background-color: bisque;
+    margin: 30px 1000px 100px 50px;
+    padding: 20px 40px 20px 50px;
+}
+
+#block2{
+    border: 1px solid black;
+    background-color: bisque;
+    margin: 30px 1000px 100px 50px;
+    padding: 20px 40px 20px 50px;
+}
+
+#block3{
+    border: 1px solid black;
+    background-color: bisque;
+    margin: 30px 1000px 100px 50px;
+    padding: 20px 40px 20px 50px;
+}
+
+.block4{
+    border: 1px solid black;
+    background-color: bisque;
+    margin-left: 47%;
+    margin-right: 42%;
+    padding: 20px 40px 20px 52px;
+}
+
+#title_name{
+    margin-left: 50%;
+}
